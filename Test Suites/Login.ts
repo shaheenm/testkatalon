@@ -35,4 +35,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login - Forgot Password correct email</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>7b24bbbf-1951-41d7-b9a5-14507e877901</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login - Forgot Password correct email resent</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
